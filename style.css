@@ -203,8 +203,8 @@ h4 {
 }
 
 .project-image {
-  height: auto;
-  width: auto;
+  height: 250px;
+  width: 350px;
 }
 
 .project-image img {
