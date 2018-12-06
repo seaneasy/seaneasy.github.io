@@ -212,6 +212,7 @@ h4 {
   display: block;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
+  padding-top: 30px;
 }
 
 .project-content {
