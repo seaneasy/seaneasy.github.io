@@ -224,6 +224,11 @@ h4 {
   flex-direction: column;
 }
 
+.project-content p {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 /*SKILLS*/
 .ul-skills {
   text-align: center;
