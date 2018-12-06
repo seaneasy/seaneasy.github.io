@@ -212,7 +212,6 @@ h4 {
   display: block;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
-  padding: 20px;
 }
 
 .project-content {
@@ -222,11 +221,6 @@ h4 {
   display: flex;
   justify-content: center;
   flex-direction: column;
-}
-
-.project-content p {
-  display: flex;
-  flex-wrap: wrap;
 }
 
 /*SKILLS*/
