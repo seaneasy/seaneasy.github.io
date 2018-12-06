@@ -203,11 +203,12 @@ h4 {
 }
 
 .project-image {
-  height: 250px;
-  width: 350px;
+  flex: 1 0 auto;
 }
 
 .project-image img {
+  height: 250px;
+  width: 350px;
   display: block;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
